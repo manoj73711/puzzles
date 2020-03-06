@@ -8,6 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        String s = "manoj";
+        
+        System.out.println(s.substring(0,1));
     }
 }
