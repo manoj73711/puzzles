@@ -19,7 +19,6 @@ public class CypherEncryptor {
 
 				value = (i + value) % j;
 			}
-
 			s = s.append((char) value);
 		}
 
