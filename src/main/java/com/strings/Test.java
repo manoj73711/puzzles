@@ -13,11 +13,15 @@ public class Test {
 //		
 //		System.out.println((char)65);
 		
-		String a = "abcd";
-		
-		System.out.println(a.substring(1,3));
-		
+//		String a = "abcd";
+//		
+//		System.out.println(a.substring(1,3));
+//		
 
+		String[] s = new String[] {"an","bn","cn","dn"};
+		
+		System.out.println(String.join(".",s));
+		
 
 	}
 
