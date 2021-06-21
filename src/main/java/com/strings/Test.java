@@ -18,9 +18,21 @@ public class Test {
 //		System.out.println(a.substring(1,3));
 //		
 
-		String[] s = new String[] {"an","bn","cn","dn"};
+//		String[] s = new String[] {"an","bn","cn","dn"};
+//		
+//		System.out.println(String.join(".",s));
 		
-		System.out.println(String.join(".",s));
+//		char c = ' ';
+//		System.out.println(c);
+		
+//		String s = "manoj";
+//		System.out.println(s.substring(0,0));
+		int i =0;
+		for(i<20; i++) {
+			
+		}
+		
+		
 		
 
 	}
