@@ -9,6 +9,12 @@ public class JavaToolKit {
 	
 	public static void main(String[] args) {
 		
+		//Arrays.fill(maxDistanceAtBlocks, Integer.MIN_VALUE);
+		//TreeSet<Integer> set = new TreeSet<Integer>();
+//		set.is
+//		
+//		set.pollFirst()
+//		
 		//char[] charArray = s.toCharArray();
 		
 		//Strings and characters tool kit
@@ -48,8 +54,9 @@ public class JavaToolKit {
 //			return charArray;
 //		}
 //		
-
+//Character.isWhitespace(testCode.charAt(i)))
 	    //String[] strings = list.toArray(String[]::new);
+	    // gcd
 	}
 
 }
